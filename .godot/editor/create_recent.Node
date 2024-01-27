@@ -1,2 +1,5 @@
+Camera3D
+WorldEnvironment
 CollisionShape3D
 MeshInstance3D
+CharacterBody3D

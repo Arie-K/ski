@@ -1,4 +1,10 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1706375649
+::res://::1706377050
 icon.svg::CompressedTexture2D::675134355414101215::1706375027::1706375036::1::::<><>::
+main.tscn::PackedScene::7753412539733303701::1706377046::0::1::::<><>::uid://dux3xrruj03qq::::res://scenes/player/player.tscn
 README.md::TextFile::-1::1706375571::0::1::::<><>::
+::res://scenes/::1706377042
+::res://scenes/main/::1706377036
+::res://scenes/player/::1706377050
+player.gd::GDScript::-1::1706376992::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::8612261681320977848::1706377050::0::1::::<><>::res://scenes/player/player.gd
